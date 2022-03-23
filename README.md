@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vigneshimself.netlify.app](https://vigneshimself.netlify.app)
 
-- 💬 Ask me about **react,react native asap**
-
-- 📫 How to reach me **vigneshimself@gmail.com**
+- 📫 How to reach me : **vigneshimself@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
