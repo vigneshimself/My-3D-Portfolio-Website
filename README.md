@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://vigneshimself.netlify.app)
 
-- 🌱 I’m currently learning **React Js and React Native**
+- 🌱 I’m learning **React Js and React Native**
 
 - 👨‍💻 All of my projects are available at [https://vigneshimself.netlify.app](https://vigneshimself.netlify.app)
 
